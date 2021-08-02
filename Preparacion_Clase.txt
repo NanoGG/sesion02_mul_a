@@ -1,0 +1,1 @@
+*Clase02_mul_a preparación para la clase lei sobre los diferentes tipos de cordenadas como lo son las polares, cilindricas y esfericas, saque la información de la pagina de Wikipedia de sistemas de cordenadas.
